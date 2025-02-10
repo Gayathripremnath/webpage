@@ -116,6 +116,7 @@ a:hover{
     padding: 20px;
     gap: 60px;
     display: flex;
+    align-items: center;
 }
 .domine2{
     background-color: rgb(202, 192, 154)  ;
