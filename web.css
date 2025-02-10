@@ -86,9 +86,10 @@ a:hover{
 
 }
 .domine{
-    margin: 10px;
+    margin: 100px;
+
     display:flex;
-    justify-content: space-evenly;
+    justify-content: space-around;
     /* padding: 10px; */
 }
 .image{
